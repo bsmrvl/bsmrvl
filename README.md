@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**bsmrvl/bsmrvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ben Somerville. I like to write code and then chip away at it like a sculptor. Every line of code should be as clean and purposeful as the polished curve of a marble statue.
 
-Here are some ideas to get you started:
+Things I'm good at:
+- Building fast web apps (with some of the below)
+- Python
+- HTML/CSS/Javascript
+- Predictive modeling (scikit-learn, tensorflow)
+- Databases/SQLAlchemy
+- Flask
+- Data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I'm learning:
+- FastAPI
+- AWS
